@@ -2,7 +2,11 @@
 
 Farming on Jup(ERC20) is possible via farm on unicrypt
 
-more later...
+The devteam created a youtube video, so no need for a wall of text or pictures :)
+
+It just has the original logo introduced:
+
+[Buy, provide Liquidity and farm JUP](https://www.youtube.com/watch?v=9UMw3Q5R77w)
 
 
 
