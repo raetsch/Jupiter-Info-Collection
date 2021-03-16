@@ -12,6 +12,8 @@ It just has the original logo introduced:
 
 ## Providing Liquidity and Farming on BS-Chain
 
+**Important: see Update as no Airdrop anymore due to single side staking**
+
 Farming on bwJup (bep20) is currently not possible via farm. There is yet none on pancakeswap and unicrypt is working to bring farms on BSC. Therefore, the devteam decided to do daily Airdrops for liquidity providers on pancake-pool.
 
 The airdrops are random in
@@ -77,8 +79,70 @@ When the transaction is done, you should find your amount of pool tokens you saw
 
 
 
-if it is there, you are ready to get the airdrop.
+### **Update: March 16th, 2021**
+
+~~if it is there, you are ready to get the airdrop.~~
+
+#### Single side staking on bsc
+
+If you want to stake your Jup, you can do that now on bsc, following this link:
+
+https://bsc.valuedefi.io/#/vfarm/0xfe4a47a3bf9a9912f8b9f3706e3f5328df9e3a39
+
+It is now no longer needed to provide liquidity to get rewarded. If you choose to stake via valuedefi, follow the next steps:
+
+If you open the link you might see the following window, of you do not have a bsc-address connected:
+
+![image-20210316081114304](pics\image-20210316081114304.png)
 
 
 
-Yet it is unknown, how long this airdrop will continue.
+The wallet you choose should contain bwJup (and that will be sent to the staking contract)
+
+![image-20210316082247834](pics\image-20210316082247834.png)
+
+
+
+Now click on stake. A window pops up, where you can select how much Jup you want to stake. Click approve then.
+
+
+
+![image-20210316082326163](pics\image-20210316082326163.png)
+
+
+
+Your wallet should no open (for me Metamask). Click on confirm to approve your bwJup. This should not take long, no need to change the fee here.
+
+
+
+![image-20210316082349432](pics\image-20210316082349432.png)
+
+
+
+When your transaction is confirmed, you should see the "stake"-button. Click it.
+
+
+
+![image-20210316082435355](pics\image-20210316082435355.png)
+
+
+
+Again Wallet opens and now you are confirming the transaction into the staking contract. Also there is no need to adapt the tx-fee. After the confirmation it is possible that you still see that window above (the stake-window). Just close it. 
+
+
+
+![image-20210316082457992](pics\image-20210316082457992.png)
+
+
+
+If this is done, you see your pool share (and also APR)
+
+![image-20210316082628705](pics\image-20210316082628705.png)
+
+
+
+If not, just reload the page.
+
+
+
+That's it. You should already receive the first JUP :)
