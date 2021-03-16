@@ -93,13 +93,13 @@ It is now no longer needed to provide liquidity to get rewarded. If you choose t
 
 If you open the link you might see the following window, of you do not have a bsc-address connected:
 
-![image-20210316081114304](pics\image-20210316081114304.png)
+![image-20210316081114304](pics/image-20210316081114304.png)
 
 
 
 The wallet you choose should contain bwJup (and that will be sent to the staking contract)
 
-![image-20210316082247834](pics\image-20210316082247834.png)
+![image-20210316082247834](pics/image-20210316082247834.png)
 
 
 
@@ -107,7 +107,7 @@ Now click on stake. A window pops up, where you can select how much Jup you want
 
 
 
-![image-20210316082326163](pics\image-20210316082326163.png)
+![image-20210316082326163](pics/image-20210316082326163.png)
 
 
 
@@ -115,7 +115,7 @@ Your wallet should no open (for me Metamask). Click on confirm to approve your b
 
 
 
-![image-20210316082349432](pics\image-20210316082349432.png)
+![image-20210316082349432](pics/image-20210316082349432.png)
 
 
 
@@ -123,7 +123,7 @@ When your transaction is confirmed, you should see the "stake"-button. Click it.
 
 
 
-![image-20210316082435355](pics\image-20210316082435355.png)
+![image-20210316082435355](pics/image-20210316082435355.png)
 
 
 
@@ -131,13 +131,13 @@ Again Wallet opens and now you are confirming the transaction into the staking c
 
 
 
-![image-20210316082457992](pics\image-20210316082457992.png)
+![image-20210316082457992](pics/image-20210316082457992.png)
 
 
 
 If this is done, you see your pool share (and also APR)
 
-![image-20210316082628705](pics\image-20210316082628705.png)
+![image-20210316082628705](pics/image-20210316082628705.png)
 
 
 
