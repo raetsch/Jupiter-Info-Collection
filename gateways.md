@@ -26,7 +26,7 @@ There is a blog article on jupiter homepage: [Blog MAinnet to BSC](https://gojup
 -  **[JUP-V5K2-269Z-QHGN-FSFT8](https://jupitertoolkit.com/explorer/address/JUP-V5K2-269Z-QHGN-FSFT8)**. This is the gateway address for native JUP. So if you want to swap, send your JUP to this address 
 - Where should the bwJUP be sent to? Put the address as a message  into your tx
 
-![image-20210317224018838](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210317224018838.png)
+![image-20210317224018838](pics/image-20210317224018838.png)
 
 you have to tick "Add a Message?" to add your BSC-Address, calculate fee, enter your passphrase and good to go!
 
@@ -54,11 +54,11 @@ The trick here is, bsc is a copy from ETH (well, more or less). The good thing o
 
 An example:
 
-![image-20210317232235147](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210317232235147.png)
+![image-20210317232235147](pics/image-20210317232235147.png)
 
 Somebody sent 46487 ERC20 JUP to the Gateway (you notice the "IN").
 
-![image-20210317232354383](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210317232354383.png)
+![image-20210317232354383](pics/image-20210317232354383.png)
 
 Here, on BSC, the tx was sent out - to the same Address!
 
@@ -68,7 +68,7 @@ There is again a blog entry for that: [swap ERC20 to BEP20](https://gojupiter.te
 
 Open your wallet, click send and enter the receipient (the gateway address).
 
-![image-20210317232805351](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210317232805351.png)
+![image-20210317232805351](pics/image-20210317232805351.png)
 
 After you entered the address, you can choose what to send (standard is ETH). Select JUP, Enter the amount you want to swap and select the tx-speed (no need to go higher than average).
 
