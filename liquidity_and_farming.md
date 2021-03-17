@@ -10,9 +10,9 @@ It just has the original logo introduced:
 
 
 
-## Providing Liquidity and Farming on BS-Chain
+## Providing Liquidity and Farming/Staking on BS-Chain
 
-**Important: see Update as no Airdrop anymore due to single side staking**
+**Important: see Update further down as no Airdrop anymore due to single side staking**
 
 Farming on bwJup (bep20) is currently not possible via farm. There is yet none on pancakeswap and unicrypt is working to bring farms on BSC. Therefore, the devteam decided to do daily Airdrops for liquidity providers on pancake-pool.
 
@@ -81,9 +81,11 @@ When the transaction is done, you should find your amount of pool tokens you saw
 
 ### **Update: March 16th, 2021**
 
-~~if it is there, you are ready to get the airdrop.~~
+
 
 #### Single side staking on bsc
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 If you want to stake your Jup, you can do that now on bsc, following this link:
 
@@ -91,7 +93,7 @@ https://bsc.valuedefi.io/#/vfarm/0xfe4a47a3bf9a9912f8b9f3706e3f5328df9e3a39
 
 It is now no longer needed to provide liquidity to get rewarded. If you choose to stake via valuedefi, follow the next steps:
 
-If you open the link you might see the following window, of you do not have a bsc-address connected:
+If you open the link you might see the following window, if you do not have a bsc-address connected:
 
 ![image-20210316081114304](pics/image-20210316081114304.png)
 
@@ -111,7 +113,7 @@ Now click on stake. A window pops up, where you can select how much Jup you want
 
 
 
-Your wallet should no open (for me Metamask). Click on confirm to approve your bwJup. This should not take long, no need to change the fee here.
+Your wallet should now open (for me Metamask). Click on confirm to approve your bwJup. This should not take long, no need to change the fee here.
 
 
 
@@ -146,3 +148,10 @@ If not, just reload the page.
 
 
 That's it. You should already receive the first JUP :)
+
+Some words to the shown values:
+
+- APR - shows a rate per year, depending on price of Jup, share of your stake. It get's updated frequently, that is why it is tagged "unstable"
+- MY pool share - Yes, your amount of the pool in relation to every Jup in the farm. This is updated if you (or someone else) adds or removes Jup from the farm
+- Estimated my share - Your amount of Jup multiplied with the current price (not sure how accurate and where the price info comes from)
+- Balance not staked yet - the amount of Jup in your current connected wallet (which is obviously not in the farm)
