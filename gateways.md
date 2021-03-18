@@ -80,7 +80,11 @@ When it arrives at the gateway, it usually takes some minutes and is sent out on
 
 **If it takes longer than 20 minutes until your bwJUP arrives, you can check on [bscscan](https://bscscan.com/tokentxns?a=0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca&p=1) if your tx was sent.**
 
-**If not, open a support ticket on the [Jupiter homepage](https://gojupiter.tech/support/) and enter some details like your address and the tx-hash for example.**
+**If not, open a support ticket on the [Jupiter homepage](https://gojupiter.tech/support/) and enter some details like:**
+
+- **your address**
+-  **the Network you are sending FROM**
+- **the tx-hash**
 
 Thats it, you just swapped your JUP to bwJUP.
 
