@@ -90,9 +90,14 @@ Thats it, you just swapped your JUP to bwJUP.
 
 - **your address**
 - **the Network you are sending FROM**
-- **the tx-hash**
+- **the tx-id**
 
+![image-20210318212957268](pics/image-20210318212957268.png)
 
+the tx-id can be found on:
+
+- ETH: https://etherscan.io/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns - search your transaction and copy tx-id
+- BSC: https://bscscan.com/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns - search your transaction and copy the tx-id
 
 
 
