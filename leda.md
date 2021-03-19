@@ -114,3 +114,83 @@ and if you specify one of your tags (ugly), you find it with some more details
 
 ![image-20210319012103129](pics/image-20210319012103129.png)
 
+
+
+## Buying and selling NFT on native Jupiter marketplace
+
+As Leda is currently pre-Beta, purchasing is not possible. However, the Jupiter-Wallet already supports it buy its integrated Marketplace. So let us have a look.
+
+Here we see our NFT on the leda marketplace.
+
+![image-20210319235301272](pics/image-20210319235301272.png)
+
+### Buying
+
+If we now look into the Jupiter-Wallet and click Marketplace, a quick overview with tags opens and if you scroll a bit down you see "recent listings" and "recent purchases".
+
+![image-20210319235646899](pics/image-20210319235646899.png)
+
+
+
+You can now search for a product via tag, for example ugly. There is only one entry:
+
+![image-20210319235819642](pics/image-20210319235819642.png)
+
+If you found something, click on the name of the NFT and a window for purchasing opens:
+
+![image-20210319235953348](pics/image-20210319235953348.png)
+
+Fields:
+
+- Quantity - amount you want to buy
+- Delivery Deadline - Marketplace is two sided. the seller has to "deliver" the goods and after "delivery deadline" ends, your offer is deleted
+- Passphrase - enter it 
+
+That is enough information for purchasing an NFT on Jupiters Chain.
+
+You can see the status of your order by clicking on Purchased Products
+
+![image-20210320000615433](pics/image-20210320000615433.png)
+
+### Selling
+
+As a seller you now click on "My pending orders" and then you see, that someone bought an NFT from you and awaits delivery:
+
+![image-20210320000813240](pics/image-20210320000813240.png)
+
+Notice here again the delivery deadline
+
+If you click deliver goods, the tx-Window pops up
+
+![test](pics/image-20210320000953851.png)
+
+- Data - mandatory field but you can enter what you want here
+- Discount - you can decide to sell it cheaper
+- Passphrase (yes yes yes)
+
+ Click on purchase and you just sold your first NFT.
+
+After the next block your status will switch to "Complete"
+
+ ![image-20210320001712979](pics/image-20210320001712979.png)
+
+
+
+### NFT after a successful purchase
+
+Remember, this was the tx, when we created our NFT:
+
+![image-20210319011851315](pics/image-20210319011851315.png)
+
+now we sold one:
+
+![image-20210320001955399](pics/image-20210320001955399.png)
+
+We are now the owner of this asset.
+
+
+
+### Conclusion
+
+with leda-beta you can already create NFT and with the native wallet and its marketplace built in, you can already buy it.
+
