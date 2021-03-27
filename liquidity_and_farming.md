@@ -1,3 +1,13 @@
+## Content
+
+[Farming on ETH](#farming-on-eth-chain)
+
+[Providing Liquidity on Pancakeswap](#providing-liquidity)
+
+[Liquidity Farming on valuedefi (bwjup)](#liquidity-farming)
+
+[Single side staking on valuedefi (bwjup)](#single-side-stake-on-bsc)
+
 ## Farming on ETH-Chain
 
 Farming on Jup(ERC20) is possible via farm on unicrypt
@@ -12,7 +22,7 @@ It just has the original logo introduced:
 
 ## Providing Liquidity and Farming/Staking on BS-Chain
 
-**Important: see Update further down as no Airdrop anymore due to single side staking**
+#### Providing Liquidity
 
 Farming on bwJup (bep20) is currently not possible via farm. There is yet none on pancakeswap and unicrypt is working to bring farms on BSC. Therefore, the devteam decided to do daily Airdrops for liquidity providers on pancake-pool.
 
@@ -79,7 +89,33 @@ When the transaction is done, you should find your amount of pool tokens you saw
 
 
 
-### **Update: March 16th, 2021**
+#### Liquidity Farming
+
+Remember, when you provided liquidity, you got that information, how many BNB/JUP-Pool Tokens you got:
+
+![pool_tokens](pics/pool_tokens.png)
+
+Now this Coins can be put into a farm to earn more rewards:
+
+[farm on valuedefi.io](https://bsc.valuedefi.io/#/vfarm/0x3d4d501603dd3093bcc44ff74aa5bbba8f20622c)
+
+![image-20210327224023512](pics/image-20210327224023512.png)
+
+If you have Cake-LP in your wallet, you can simply add them by clicking on stake, enter the amount you want to add (usually max) and then click stake:
+
+![image-20210327224925975](pics/image-20210327224925975.png)
+
+If it is your first time you add Cake-LP you have to approve the transaction:
+
+![image-20210327225608538](pics/image-20210327225608538.png)
+
+after you approved it, you can click on stake and have to confirm the transaction, that sends your Cake-LP into the farm.
+
+After that, you are clear and can claim rewards:
+
+![image-20210327230048828](pics/image-20210327230048828.png)
+
+Every time you want to claim your rewards, it is another transaction from the farm contract to your wallet.
 
 
 
