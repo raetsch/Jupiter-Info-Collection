@@ -6,7 +6,7 @@
 
 [Liquidity Farming on valuedefi (bwjup)](#liquidity-farming)
 
-[Single side staking on valuedefi (bwjup)](#single-side-stake-on-bsc)
+[Single side staking on valuedefi (bwjup)](#single-side-staking-on-bsc)
 
 ## Farming on ETH-Chain
 
