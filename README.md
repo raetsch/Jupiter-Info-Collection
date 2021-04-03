@@ -26,16 +26,19 @@ Information about the wrapped tokens on Etherium (ETH) and Binance Smart Chain (
 * **Metis** - a decentralized chat app built on Gravity and curated by Sigwo Technologies. Metis is a decentralized chat application. Think Telegram, but 100% private, decentralized, and fully encrypted GROUP messaging.
   * [Web App](https://metis.gojupiter.tech/) - In process of being updated to new GUI
   * iOS App - to be released soon
+* fndr - 
+  * [CLI Code Repository](https://github.com/whatl3y/fndr)
+  * Front End Code Repository
+
 * **jupiter-git** - Git server to support a backend of storing repos and files on the Jupiter blockchain.
 
   * [Website](https://git.gojupiter.tech/)
   * [Information](./git.md)
   * [Code repository](https://github.com/whatl3y/jupiter-git)
-* **jupiter-fs** - A small file system implementation for the Jupiter blockchain.  File storage, decentralized!
-  * [Coode repository](https://github.com/whatl3y/jupiter-fs)
 
 
 ### Make your own dApps
 * [Gravity](./gravity.md) - Blockchain-powered full-stack web development framework.  Allows for quick app development with data storage on the Jupiter blockchain.  Effectivly encrypts and backs up sensitive information.
 * [Jupiter Node SDK](https://github.com/whatl3y/jupiter-node-sdk) - A thin wrapper over the Jupiter blockchain API with some utility functions to make doing common tasks like fetching data and encrypting/decrypting data easy.
+* [jupiter-fs](https://github.com/whatl3y/jupiter-fs) - A small file system implementation for the Jupiter blockchain.  File storage, decentralized!
 * [Jupiter API Console](https://jpr.gojupiter.tech/test) - Test out the API.  Use this to roll your own SDK in any language you want.
