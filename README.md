@@ -15,7 +15,7 @@ Information about the wrapped tokens on Etherium (ETH) and Binance Smart Chain (
   * BSC - need link for this
 
 ### How-to Articles
-* [Fundamentals](./fundamentals.md)
+* [Fundamentals](./fundmentals.md)
 * [Gateways](./gateways.md)
 * [Liquidity and Farming](./liquidity_and_farming.md)
 
