@@ -12,7 +12,7 @@ Information about the wrapped tokens on Etherium (ETH) and Binance Smart Chain (
 * [Jupiter's website](https://gojupiter.tech/)
 * Charts
   * [WETH/JUP](https://www.dextools.io/app/uniswap/pair-explorer/0x2dfee82f4250dd3f3c6811c5d2926ede8b37a7d5)
-  * BSC - need link for this
+  * [BNB/bwJUP](https://goswapp-bsc.web.app/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7)
 
 ### How-to Articles
 * [Fundamentals](./fundmentals.md)
