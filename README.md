@@ -26,9 +26,11 @@ Information about the wrapped tokens on Etherium (ETH) and Binance Smart Chain (
 * **Metis** - a decentralized chat app built on Gravity and curated by Sigwo Technologies. Metis is a decentralized chat application. Think Telegram, but 100% private, decentralized, and fully encrypted GROUP messaging.
   * [Web App](https://metis.gojupiter.tech/) - In process of being updated to new GUI
   * iOS App - to be released soon
-* fndr - 
+* **fndr** - Flexible and secure (AES-256 bit encryption) password manager that gives you complete control of your account information. fndr supports customized connectors that tell fndr where to store your encrypted account information.
+
+
   * [CLI Code Repository](https://github.com/whatl3y/fndr)
-  * Front End Code Repository
+  * [Front End Code Repository](https://github.com/whatl3y/fndr-web)
 
 * **jupiter-git** - Git server to support a backend of storing repos and files on the Jupiter blockchain.
 
