@@ -1,4 +1,19 @@
-# Gateways to swap JUP between the different chains
+# Content
+
+[Mainnet to bwJUP](#swap-mainnet-to-bwjup)
+
+[bwJUP to Mainnet](#bwjup-to-mainnet)
+
+[ERC20 to bwJUP](#erc20-jup-to-bwjup)
+
+[bwJUP to ERC20](#bwjup-to-erc20-jup)
+
+[Supportticket](#supportticket)
+
+
+
+_________________________________________________________
+## Gateways to swap JUP between the different chains
 
 as we all (should) know, Jup is available on 3 chains currently:
 
@@ -17,6 +32,7 @@ There are 4 possibilities currently:
 
 The possibility to swap Mainnet to ERC20 is not longer active, because of the high fees on ETH-Chain
 
+_________________________________________________________
 ## Swap Mainnet to bwJUP
 
 By the time writing, this is done manually.
@@ -37,7 +53,7 @@ After it is processed (as said manually currently), you should see the outgoing 
 When the tx is there, you should see the coins in your wallet.
 
 
-
+_________________________________________________________
 ## bwJUP to Mainnet
 
 tbd.
@@ -45,10 +61,10 @@ tbd.
 basically the way backward, but has to be confirmed.
 
 
-
+_________________________________________________________
 ## ERC20 JUP to bwJUP
 
-this Gateway is automated.
+this Gateway is automated. **Automation deactivated currently**
 
 The trick here is, bsc is a copy from ETH (well, more or less). The good thing on that. Your private key is the same on ETH as on BSC, so if you have an address on ETH, it is the same on BSC. This is the way how the automated gateway works. Incoming tx from the ETH-Network are sent out over BSC back to the same address you sent it on ETH-Network!
 
@@ -82,6 +98,24 @@ Thats it, you just swapped your JUP to bwJUP.
 
 
 
+
+
+
+_________________________________________________________
+## bwJUP to ERC20 JUP
+**Automation deactivated currently**
+
+It is pretty much the same as ERC20 JUP to bwJUP, follow the steps there (same addresses, same links, same wallet (yours ;) ).
+
+**Just one important thing**, because of the high tx-fee on ETH-Network, your swap is charged by an amount of JUP (currently 100 JUP, depends on JUP-Price and is adapted, manually i guess). You pay the tx-fee on BSC, which is rather cheap and the charged fee is for the gateway that processes the tx on the ETH-Network.
+
+
+_________________________________________________________
+### One last note
+
+As the BSC-nodes are somewhat unstable, it occurs that a swap stuck on the gateway. No worries, as long as you see your tx incoming on the block explorer of the network you sent it from - if ERC20 JUP [ETH](https://etherscan.io/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns) or bwJUP [BSC](https://bscscan.com/tokentxns?a=0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca&p=1) - your funds are safe. They are logged on the gateway and can be processed manually - therefore open a ticket on [Jupiter homepage](https://gojupiter.tech/support/)
+
+_________________________________________________________
 ### Supportticket
 
 **If it takes longer than 20 minutes until your bwJUP arrives, you can check on [bscscan](https://bscscan.com/tokentxns?a=0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca&p=1) if your tx was sent.**
@@ -98,17 +132,3 @@ the tx-id can be found on:
 
 - ETH: https://etherscan.io/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns - search your transaction and copy tx-id
 - BSC: https://bscscan.com/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns - search your transaction and copy the tx-id
-
-
-
-## bwJUP to ERC20 JUP
-
-It is pretty much the same as ERC20 JUP to bwJUP, follow the steps there (same addresses, same links, same wallet (yours ;) ).
-
-**Just one important thing**, because of the high tx-fee on ETH-Network, your swap is charged by an amount of JUP (currently 100 JUP, depends on JUP-Price and is adapted, manually i guess). You pay the tx-fee on BSC, which is rather cheap and the charged fee is for the gateway that processes the tx on the ETH-Network.
-
-
-
-### One last note
-
-As the BSC-nodes are somewhat unstable, it occurs that a swap stuck on the gateway. No worries, as long as you see your tx incoming on the block explorer of the network you sent it from - if ERC20 JUP [ETH](https://etherscan.io/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns) or bwJUP [BSC](https://bscscan.com/tokentxns?a=0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca&p=1) - your funds are safe. They are logged on the gateway and can be processed manually - therefore open a ticket on [Jupiter homepage](https://gojupiter.tech/support/)
