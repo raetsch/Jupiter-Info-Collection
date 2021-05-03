@@ -24,16 +24,7 @@ It just has the original logo introduced:
 
 #### Providing Liquidity
 
-Farming on bwJup (bep20) is currently not possible via farm. There is yet none on pancakeswap and unicrypt is working to bring farms on BSC. Therefore, the devteam decided to do daily Airdrops for liquidity providers on pancake-pool.
-
-The airdrops are random in
-
-- time
-- amount
-
-No one except sigwo can say, when it will happen and how much is airdropped that day. Obviously there is no need to ask, if he could tell...
-
-So what is needed to qualify for the airdrop? You need to provide liquidity on the JUP/BNB-Pool on [Pancakeswap](https://pancakeswap.info/token/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7)
+ You need to provide liquidity on the JUP/BNB-Pool Version 2 on [Pancakeswap](https://pancakeswap.info/token/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7)
 
 ![pool](pics/bwjup_bnb_pool.png)
 
@@ -77,7 +68,7 @@ Here 0.1 BNB were put in and the system calculated 823.347 bwJUP. When you decid
 
 ![pool_tokens](pics/pool_tokens.png)
 
-The number you see here is the Pool-Token. This is what you get in your wallet for providing the liquidity. Later, on a farm, you need to input theese tokens. For now, you will just find that amount in the list of liquidity-providers on bscscan (we will see later). Click "Confirm Supply" and your wallet (here Metamask) should open up:
+The number you see here is the Pool-Token. This is what you get in your wallet for providing the liquidity. Later, on a farm, you need to input these tokens. For now, you will just find that amount in the list of liquidity-providers on bscscan (we will see later). Click "Confirm Supply" and your wallet (here Metamask) should open up:
 
 ![confirm_tx](pics/confirm_tx.png)
 
