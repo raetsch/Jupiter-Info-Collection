@@ -88,7 +88,7 @@ Remember, when you provided liquidity, you got that information, how many BNB/JU
 
 Now this Coins can be put into a farm to earn more rewards:
 
-[farm on valuedefi.io](https://bsc.valuedefi.io/#/vfarm/0x3d4d501603dd3093bcc44ff74aa5bbba8f20622c)
+[farm on valuedefi.io](https://bsc.valuedefi.io/#/vfarm/0x810e10df4465b7751d75e961acaf0d06aaae11e1)
 
 ![image-20210327224023512](pics/image-20210327224023512.png)
 
