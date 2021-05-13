@@ -2,7 +2,7 @@
 
 [Mainnet to bwJUP](#swap-mainnet-to-bwjup)
 
-[bwJUP/ERC20 to Mainnet](#bwjup-or-erc20-to-mainnet)
+[bwJUP/ERC20 to Mainnet](#bwjup-or-erc20-jup-to-mainnet)
 
 [General info about swaps between ETH and BSC](#erc20-jup-to-bwjup-or-bwjup-to-erc20)
 
