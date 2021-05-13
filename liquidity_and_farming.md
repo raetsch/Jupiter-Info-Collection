@@ -80,7 +80,7 @@ When the transaction is done, you should find your amount of pool tokens you saw
 
 
 
-#### Liquidity Farming
+#### Liquidity Farming (Value.defi maybe still active but not recommended, due to security risk)
 
 Remember, when you provided liquidity, you got that information, how many BNB/JUP-Pool Tokens you got:
 
@@ -110,7 +110,7 @@ Every time you want to claim your rewards, it is another transaction from the fa
 
 
 
-#### Single side staking on bsc
+#### Single side staking on bsc (Value.defi maybe still active but not recommended, due to security risk)
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
