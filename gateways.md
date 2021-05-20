@@ -14,6 +14,10 @@
 
 For all official info, click [here](https://blog.gojupiter.tech/gateway-procedures-update-7c6f29e422a).
 
+In short:
+
+All directions are automated and available over [new swap frontend](swap.jup.io)
+
 _________________________________________________________
 ## Gateways to swap JUP between the different chains
 
@@ -38,43 +42,75 @@ The possibility to swap Mainnet to ERC20 is not longer active, because of the hi
 _________________________________________________________
 ## Swap Mainnet to bwJUP
 
-By the time writing, this is done manually.
+**Gateway is automated**
 
-There is a blog article on jupiter homepage: [Blog gateway procedures](https://blog.gojupiter.tech/gateway-procedures-update-7c6f29e422a). It is rather short but contains two important things:
+There is a blog article on jupiter homepage: [Blog gateway procedures](https://blog.gojupiter.tech/gateway-procedures-update-7c6f29e422a). The announced automated gateway is live and makes swaps easier, however, here comes the guide how to swap and what you should keep in mind:
 
--  **[JUP-V5K2-269Z-QHGN-FSFT8](https://jupitertoolkit.com/explorer/address/JUP-V5K2-269Z-QHGN-FSFT8)**. This is the gateway address for native JUP. So if you want to swap, send your JUP to this address 
-- Where should the bwJUP be sent to? Put the address as a message into your tx
+First head over to the new frontend [here](swap.jup.io)
 
-![image-20210317224018838](pics/image-20210317224018838.png)
+![image-20210520234032200](pics/image-20210520234032200.png)
 
-you have to tick "Add a Message?" to add your BSC-Address, calculate fee, enter your passphrase and good to go!
+We want to swap from Mainnet to bwJup, so choose from **JUP** (1) to **BSC**(2). Next connect your wallet with the connect button upper right (3). Be sure to switch to the binance smart chain network and select the account you want your bwJUP to be sent to. This is important, as the swap frontend is taking the destination JUP-address from the entry-fields, but the destination bwJUP-address is the connected account!
 
-You can now head over to [jupitertoolkit explorer](https://jupitertoolkit.com/explorer/address/JUP-V5K2-269Z-QHGN-FSFT8) and see if your tx came in.
+![](pics/main_bsc.png)
 
-After it is processed (as said manually currently), you should see the outgoing tx on the bs-chain on [bscscan bwJUP contract](https://bscscan.com/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns)
+4.) Enter the amount you want to swap
 
-When the tx is there, you should see the coins in your wallet.
+5.) Enter your JUP-address from mainnet
+
+6.) Enter the passphrase that you got, when you created your mainnet-JUP-address
+
+**Now, important is, that you assure yourself, that your on swap.jup.io!** Because what is happening now, if you click swap?
+
+The gateway will make an API-call to a jupiter-node and is creating a tx from your account with the amount you entered (it has your address and the passphrase to do so). It will create the tx with the mainnet-gateway address as receiver. Then the gateway will create a transaction on the binance smart chain. If you are not on the official frontend, you just sent someone your jup-address and the passphrase which means, your funds are most likely already in his wallet and not yours anymore. so be extra careful and check again if you are on the right page, if you have doubts.
+
+There is no fee, as your account is paying the tx-fee for the mainnet and the gateway is covering tx-fee on BSC-side.
+
+Click Swap!
+
+After it is processed you can check the JUP [block-explorer](https://jupitertoolkit.com/explorer/blocks) if your tx was snet to the gateway. After a few minutes you should see the outgoing tx on the bs-chain on [bscscan bwJUP contract](https://bscscan.com/address/0x34fbbb37eb4f50f447e736e7b771bd3ad20c41ca#tokentxns). If not, wait 30 minutes and create a [Supportticket](#supportticket)
+
+If the tx is there, you should see the coins in your wallet.
 
 
 _________________________________________________________
 ## bwJUP or ERC20-JUP to Mainnet
 
-This process is currently manual.
+**Gateway is automated**
 
-Send your coins to this address: **0x3162f7EA049E45595d6cF786FBE4Fc553AbE817F**.
+There is a blog article on jupiter homepage: [Blog gateway procedures](https://blog.gojupiter.tech/gateway-procedures-update-7c6f29e422a). The announced automated gateway is live and makes swaps easier, however, here comes the guide how to swap and what you should keep in mind:
 
-Confirm [here](https://blog.gojupiter.tech/gateway-procedures-update-7c6f29e422a) on official blogpost if you want to be sure about the address.
+First head over to the new frontend [here](swap.jup.io)
 
-After you sent the coins, contact @sigwo as soon as possible in telegram via dm and send him:
+![image-20210521005438168](pics/image-20210521005438168.png)
 
-- your mainnet jup-address, where you want to receive your coins
-- the tx-id of the transaction you just sent to the gateway address, so that sigwo can match it
+The next steps are basically the same if you want to swap from ETH or BSC to mainnet, just select the approriate from (1), select **JUP** as to (2) and connect your wallet with the account you wish to use (3).
+
+![](pics/ethbsc_main.png)
+
+4.) Enter the amount you want to swap
+
+5.) Enter you mainnet JUP-address. This can be either a newly created address, an address created in leda or an address created i metis.
+
+You can now click swap and your wallet opens, where you have to confirm the tx.
+
+![image-20210513230920476](pics/image-20210513230920476.png)
+
+After that, your swap will be processed automatically. There is no fee, the tx-cost for mainnet-tx is covered by the gateway.
+
+If you want to check, if your tx arrived at the gateway, look at [etherscan](https://etherscan.io/tokentxns?a=0xb123740aef4eb25b696fd9876B24F18AEce9c580&p=1) or [bscscan](https://bscscan.com/tokentxns?a=0xb123740aef4eb25b696fd9876B24F18AEce9c580&p=1).
+
+For the outgoing tx on mainnet, you can check JUP [block-explorer](https://jupitertoolkit.com/explorer/blocks).
+
+If your swap takes longer than 30 minutes, create a [Supportticket](#supportticket),
+
+
 
 
 _________________________________________________________
 ## ERC20 JUP to bwJUP or bwJUP to ERC20
 
-this Gateway is automated (again).
+**this Gateway is automated** (again).
 
 The trick here is, bsc is a copy from ETH (well, more or less). The good thing on that, your private key is the same on ETH as on BSC, so if you have an address on ETH, it is the same on BSC. This is the way how the automated gateway works. Incoming tx from the ETH-Network are sent out over BSC back to the same address you sent it on ETH-Network!
 
@@ -94,7 +130,7 @@ There is again a blog entry for that: [new swap procedures](https://blog.gojupit
 
 So now, have a look at the frontend of the new gateway:
 
-![image-20210513224608854](pics/image-20210513224608854.png)
+![image-20210521005438168](pics/image-20210521005438168.png)
 
 Let's start with the clean UI:
 
@@ -142,6 +178,8 @@ When it arrives at the gateway, it usually takes some minutes to process the swa
 
 
 ### bwJUP to ERC20-JUP
+
+**Gateway is automated**
 
 so let's connect our metamask wallet:
 
