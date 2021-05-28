@@ -27,7 +27,7 @@ After you have done that you can already start pushing your things to the blockc
 
 as an example, i cloned this repo you are just reading and pushed it onto the JUP-Chain.
 
-![image-20210324234842491](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210324234842491.png)
+![image-20210324234842491](pics/image-20210324234842491.png)
 
 As you can see, your JUP-Mainnet address is the username, the password you need is your passphrase (the 12-word seedphrase). You get this for example, when you create a new account on leda or over the webwallet.
 
@@ -35,7 +35,7 @@ That's it, you just pushed this repository to a blockchain.
 
 Let's have a look, how this looks on the chain:
 
-![image-20210324143210095](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210324143210095.png)
+![image-20210324143210095](pics/image-20210324143210095.png)
 
 We have two transactions regarding that git push. The first one is a message, the second one is the payment. The message is administrative stuff, telling the git-server, which address the target is.
 
@@ -63,7 +63,7 @@ Change to the directory `jupiter-git`
 
 
 
-![image-20210322231006737](C:\Users\hk\AppData\Roaming\Typora\typora-user-images\image-20210322231006737.png)
+![image-20210322231006737](pics/image-20210322231006737.png)
 
 
 
