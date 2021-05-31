@@ -65,7 +65,7 @@ and you will see the buy order:
 
 ![image-20210531225246814](pics/FORGE6.png)
 
-Now comes the hard part... You have to wait. There is a bot that checks every 30 minutes for buy orders. So worst case, it takes 30 minutes, best case, just seconds. When the bot bought your offer, it looks like this:
+This will only take some seconds to a few minutes. When the bot bought your offer, it looks like this:
 
 ![image-20210531225747998](pics/FORGE7.png)
 
