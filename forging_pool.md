@@ -1,6 +1,6 @@
 # Jupiter Earn Programm (FORGE)
 
-This guide targets the process be a part of the official sigwo forging pool. It is inspired by [this](https://blog.gojupiter.tech/how-to-earn-on-jupiter-2108413fd0ad) blogpost.
+This guide targets the process to be a part of the official sigwo forging pool. It is inspired by [this](https://blog.gojupiter.tech/how-to-earn-on-jupiter-2108413fd0ad) blogpost.
 
 
 
@@ -30,7 +30,7 @@ FORGE is an Asset on the Jupiter-Chain. Assets have IDs which make them unique, 
 
 So, were can you find it?
 
-Go to your Jupiter Wallet (or Webwallet) and click on asset exchange, then on "add asset". Enter the ID and click the green "add asset".
+Go to your Jupiter Wallet (or Webwallet, for example [official webwallet](https://nodes.gojupiter.tech/index.html)) and click on asset exchange, then on "add asset". Enter the ID and click the green "add asset".
 
 ![FORGE1](pics/FORGE1.png)
 
@@ -51,11 +51,17 @@ If you want to buy FORGE with your JUP, Click on the green "+". This opens the b
 
 ![FORGE3](pics/FORGE3.png)
 
-This opens a normal transaction dialogue where you have to enter your passphrase (the 12 words - with spaces)
+Another warning for security reasons:
+
+**If you are <u>not</u> connected to a local wallet under your control (no, your VPS is also unsafe if you are not using tls-based encryption for the wallet), don't send your passphrase. It will be send over half the internet in clear text! Be sure that you use a wallet with encryption activated**
+
+![image-20210601105607382](pics/FORGE8.png) 
+
+Now opens a normal transaction dialogue where you have to enter your passphrase (the 12 words - with spaces).
 
 ![image-20210531224914164](pics/FORGE4.png)
 
-If yo click on "Buy Asset" now, you get a short message on the upper right that your order was submitted. Now Click on forge again
+If you click on "Buy Asset" now, you get a short message on the upper right that your order was submitted. Now Click on forge again.
 
 ![FORGE5](pics/FORGE5.png)
 
@@ -86,4 +92,18 @@ It is not easy to calculate a ROI or APY as the block-rewards are tx-fees and so
 So there is no easy way yet, but you can get a feeling.
 
 
+
+### Selling FORGE for JUP
+
+If you want to stop being part of the forging pool or at least want to remove a part of your share, you can sell FORGE for JUP.
+
+This will remove your weekly rewards but cause no other penalties.
+
+So to get your JUP back, simply go the the Asset Exchange and click the red "+". It is also 1:1, you do not lose anything, no fees, nothing.
+
+![image-20210601110039533](pics/FORGE9.png)
+
+It is bascially the same as on the buy-process. The difference is, that the sell orderbook is checked every 30 minutes by a bot.
+
+That means, your sell order is processed at best in seconds and worst in 30 minutes.
 
