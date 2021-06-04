@@ -16,7 +16,7 @@ Users that don't want to run a node or have a lower balance that is not enough t
 
 ### Before we start
 
-Remember, we are now talking about Mainnet. It is very likely, that you bought your JUP on Uniswap or Pancakeswap. You now have to swap them over to the mainnet with the [gateway](swap.jup.io).
+Remember, we are now talking about Mainnet. It is very likely, that you bought your JUP on Uniswap or Pancakeswap. You now have to swap them over to the mainnet with the [gateway](https://swap.jup.io).
 
 If you need a guide: [here](https://github.com/raetsch/Jupiter-Info-Collection/blob/main/gateways.md) you are :)
 
