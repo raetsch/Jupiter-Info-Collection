@@ -16,7 +16,7 @@ Users that don't want to run a node or have a lower balance that is not enough t
 
 ### Before we start
 
-Remember, we are now talking about Mainnet. It is very likely, that you bought your JUP on Uniswap or Pancakeswap. You now have to swap them over to the mainnet with the [gateway](https://swap.jup.io).
+Remember, we are now talking about Mainnet. It is very likely, that you bought your JUP on Uniswap or Pancakeswap or Kucoin. You now have to swap them over to the mainnet with the [gateway](https://swap.jup.io).
 
 If you need a guide: [here](https://github.com/raetsch/Jupiter-Info-Collection/blob/main/gateways.md) you are :)
 
@@ -56,6 +56,14 @@ Another warning for security reasons:
 **If you are <u>not</u> connected to a local wallet under your control (no, your VPS is also unsafe if you are not using tls-based encryption for the wallet), don't send your passphrase. It will be send over half the internet in clear text! Be sure that you use a wallet with encryption activated**
 
 ![image-20210601105607382](pics/FORGE8.png) 
+
+Wallets you can consider safe:
+
+- [official webwallet](https://nodes.gojupiter.tech/index.html)
+
+- a webwallet of a node, running in your local home network (except you think, your home network is not safe ;) )
+
+  
 
 Now opens a normal transaction dialogue where you have to enter your passphrase (the 12 words - with spaces).
 
