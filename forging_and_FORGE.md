@@ -2,11 +2,11 @@
 
 Content:
 
-[forging](forging)
+[forging](#forging)
 
-[FORGE](FORGE)
+[FORGE](#FORGE)
 
-[difference](Difference)
+[difference](#Difference)
 
 
 
