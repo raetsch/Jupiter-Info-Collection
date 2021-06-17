@@ -60,10 +60,11 @@ Another warning for security reasons:
 Wallets you can consider safe:
 
 - [official webwallet](https://nodes.gojupiter.tech/index.html)
-
 - a webwallet of a node, running in your local home network (except you think, your home network is not safe ;) )
 
-  
+
+
+
 
 Now opens a normal transaction dialogue where you have to enter your passphrase (the 12 words - with spaces).
 
