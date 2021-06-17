@@ -18,7 +18,7 @@ As you are maybe used to other PoS-Coins, where the wallet automatically starts 
 
 ![image-20210617233105304](pics/image-20210617233105304.png)
 
-The red dot with "Not Forging" determines, we are not trying to help the network by trying to generate blocks.
+The red dot with "Not Forging" determines, we are not trying to help the network by trying to generate blocks. It is possible that you face a grey dot instead of the red one with "unknown".
 
 If you want to activate it, you need to:
 
@@ -35,7 +35,7 @@ You already have an effective balance of 900 JUP, this is not enough for staking
 
 #### Start forging
 
-If you now want to activate forging, click on the red Dot with "not Forging" or maybe it is grey with "unknown".
+If you now want to activate forging, click on the red Dot with "not Forging" or the grey one with "unknown".
 
 It opens a window:
 
@@ -44,6 +44,22 @@ It opens a window:
 Here you have to enter your passphrase (the 12 words  with spaces). If you now click on Start Forging, you see a green dot with "forging".
 
 ![image-20210617234246383](pics/image-20210617234246383.png)
+
+Sidenote:
+
+The green dot turns to grey "unknown" after the next try of the gui to retrieve the status. This happens if you have not set your admin password in the wallet-gui. The admin password is configured in the nxt.properties file (the config of your node).
+
+You can enter it on the gui under Settings - Account Settings:
+
+![image-20210618004535971](pics/image-20210618004535971.png)
+
+In the opening window, there is a field Administrator Password:
+
+![image-20210618004701910](pics/image-20210618004701910.png)
+
+Enter the same password here, you configured under nxt.myPassword in nxt.properties file and then click any other window/link (Dashboard for example). The password is automatically saved and your Forging status should always reflect the right one (Not Forging or Forging).
+
+
 
 Depending on your amount of Coins, you now have to wait :) Don't worry if you are not on the list of Generators. You need to hit 2 Blocks out of the last 10000, which again is bound to your "stake".
 
@@ -59,7 +75,6 @@ in the opening window you see all the details about the latest blocks, including
 
 #### Notes
 
-- On one node, forging can only be activated for one address. This means, if you have two addresses with JUP, you only activate it with one of this addresses on this node. However, you can lease the balance of your other address to your first one, which adds up to the effective balance and therefore raises the chance to hit a block
 - if the node was restarted, you have to activate forging again
 - there are certain API-calls around forging (Status, start, stop, lease)
 
@@ -71,7 +86,9 @@ ________________________________________________________________________________
 
 FORGE is an asset (just like an ERC-20 token on ETH) on the Jupiter chain. It was initiated by Sigwo to create a pool for JUP-Holders with smaller balances. There are as many FORGE as JUP (how to buy it, see [here](https://github.com/raetsch/Jupiter-Info-Collection/blob/main/forging_pool.md)).
 
-The connection of FORGE to forging is, that you buy FORGE for JUP. On this buy, the JUP is added to the balance of a JUP-Address that is actively forging. Everyone holding FORGE did this to "power up" the JUP-Address and so you can call it a pool.
+The connection of FORGE to forging is, that you buy FORGE for JUP. With this buy your JUP is added to the JUP address Sigwo has created the FORGE asset with, and this address is actively forging. Everyone holding FORGE did this to "power up" Sigwos JUP-Address and so you can call it a pool.
+
+![image-20210618003929633](pics/image-20210618003929633.png)
 
 You as a FORGE-Holder don't have to do anything, just wait for payouts.
 
