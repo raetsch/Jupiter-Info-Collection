@@ -1,6 +1,14 @@
 # Jupiter reward program
 
-[TOC]
+#### Content:
+
+[Forge](#forge)
+
+[Buy FORGE](#buy-forge)
+
+[Sell FORGE](#selling-forge-for-jup)
+
+[Run a node ](#run-a-node)
 
 Jupiter offers a reward program for users on mainnet. To be eligible to get this rewards, there are 2 possibilities:
 
@@ -10,10 +18,8 @@ Jupiter offers a reward program for users on mainnet. To be eligible to get this
 This program is the successor of the staking farms on BSC and FORGE can be seen as single side staking.
 
 The rewards of 3000JUP are paid hourly and are calculated in the following way:
-$$
-reward per hour= 3000 /(All FORGE + All JUP on Nodes * 1.2) * (Your JUP * 1.2 + Your FORGE )
-$$
- 
+
+*reward per hour= 3000 /(All FORGE + All JUP on Nodes x 1.2) x (Your JUP x 1.2 + Your FORGE )*
 
 As you can see, all FORGE, that is bought by users and all JUP that is on nodes, that are part of the reward program, is summed up. As a node has monthly costs, the JUP gets an additional weight of 20%. 
 
