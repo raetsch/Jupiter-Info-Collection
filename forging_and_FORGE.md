@@ -104,7 +104,7 @@ ________________________________________________________________________________
 ### Difference
 
 - forging is the active part to help the network by creating blocks
-- FORGE is an asset that reflects apool/farm with single side staking
+- FORGE is an asset that reflects a pool/farm with single side staking
 - forging is supporting the network
 - forging needs active activation and reactivation
 - FORGE is completely passive after buying
