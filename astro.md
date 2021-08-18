@@ -4,9 +4,9 @@ Astro is another asset on the Jupiter Chain. It is part of a reward programm (li
 
 Content:
 
--  [Tokennomics of ASTRO](#tokennomics_of_astro)
-- [Use Case of ASTRO](#use_case_of_astro)
-- [How to buy and sell ASTRO](#how_to_buy_and_sell_astro)
+-  [Tokennomics of ASTRO](#Tokennomics_of_ASTRO)
+- [Use Case of ASTRO](#Use_Case_of_ASTRO)
+- [How to buy and sell ASTRO](#How_to_buy_and_sell_ASTRO)
 
 ### Tokennomics of ASTRO
 
@@ -48,7 +48,7 @@ If you already bought other assets, they will be listed there, if not the page i
 
 To buy and sell, it is easy to remember which side of the orderbooks presents what
 
-![image-20210818211209584](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\image-20210818211209584.png)
+![image-20210818211209584](pics/image-20210818211209584.png)
 
 On the left side you can buy ASTRO and below that are the sell orders you can buy from. On the right side, you can sell ASTRO and below that are the buy orders.
 
