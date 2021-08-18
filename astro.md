@@ -4,9 +4,9 @@ Astro is another asset on the Jupiter Chain. It is part of a reward programm (li
 
 Content:
 
--  [Tokennomics of ASTRO](#Tokennomics-of-ASTRO)
-- [Use Case of ASTRO](#Use-Case-of-ASTRO)
-- [How to buy and sell ASTRO](#How-to-buy-and-sell-ASTRO)
+-  [Tokennomics of ASTRO](#tokennomics-of-astro)
+- [Use Case of ASTRO](#use-case-of-astro)
+- [How to buy and sell ASTRO](#how-to-buy-and-sell-astro)
 
 ### Tokennomics of ASTRO
 
