@@ -29,11 +29,11 @@ So, were can you find it?
 
 Go to your Jupiter Wallet (or Webwallet, for example [official webwallet](https://nodes.gojupiter.tech/index.html)) and click on asset exchange, then on "add asset". Enter the ID and click the green "add asset".
 
-![FORGE1](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE1.png)
+![FORGE1](pics/FORGE1.png)
 
 You should see now this:
 
-![image-20210531224104514](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE2.png)
+![image-20210531224104514](pics/FORGE2.png)
 
 What do we have here?
 
@@ -46,13 +46,13 @@ What do we have here?
 
 If you want to buy FORGE with your JUP, Click on the green "+". This opens the buy window, enter your amount and click "buy".
 
-![FORGE3](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE3.png)
+![FORGE3](pics/FORGE3.png)
 
 Another warning for security reasons:
 
 **If you are <u>not</u> connected to a local wallet under your control (no, your VPS is also unsafe if you are not using tls-based encryption for the wallet), don't send your passphrase. It will be send over half the internet in clear text! Be sure that you use a wallet with encryption activated**
 
-![image-20210601105607382](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE8.png) 
+![image-20210601105607382](pics/FORGE8.png) 
 
 Wallets you can consider safe:
 
@@ -65,21 +65,21 @@ Wallets you can consider safe:
 
 Now opens a normal transaction dialogue where you have to enter your passphrase (the 12 words - with spaces).
 
-![image-20210531224914164](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE4.png)
+![image-20210531224914164](pics/FORGE4.png)
 
 If you click on "Buy Asset" now, you get a short message on the upper right that your order was submitted. Now Click on forge again.
 
-![FORGE5](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE5.png)
+![FORGE5](pics/FORGE5.png)
 
  
 
 and you will see the buy order:
 
-![image-20210531225246814](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE6.png)
+![image-20210531225246814](pics/FORGE6.png)
 
 This will only take some seconds to a few minutes. When the bot bought your offer, it looks like this:
 
-![image-20210531225747998](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE7.png)
+![image-20210531225747998](pics/FORGE7.png)
 
 **That was everything you need to do. With holding FORGE on your address, you will get rewards on the next hourly payout**
 
@@ -93,7 +93,7 @@ This will remove your weekly rewards but cause no other penalties.
 
 So to get your JUP back, simply go the the Asset Exchange and click the red "+". It is also 1:1, you do not lose anything, no fees, nothing.
 
-![image-20210601110039533](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\FORGE9.png)
+![image-20210601110039533](pics/FORGE9.png)
 
 It is bascially the same as on the buy-process. The difference is, that the sell orderbook is checked every 30 minutes by a bot.
 
