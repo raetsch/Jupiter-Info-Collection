@@ -117,7 +117,7 @@ So you can run a node and get rewards without actively forging, but you can also
 
 If you want to setup a node, please use this guide, it should cover everything necessary to get a node running and take part on the reward program:
 
-[node manual v2.2](https://github.com/raetsch/Jupiter-Info-Collection/blob/main/Jupiter manual V2.2 draft 30052021.pdf)
+[node manual v2.3](https://github.com/raetsch/Jupiter-Info-Collection/blob/main/Jupiter_node_manual.pdf)
 
 In the config-file you added a parameter called nxt.myPlatform and your JUP-address. This address is shown here:
 
