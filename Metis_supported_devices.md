@@ -19,7 +19,11 @@ With the help of the metis-community, we can give newcomers, searching for an ap
 
 
 
-## Device Lists (Metis 1.3)
+## Device Lists (based on Metis v1.3)
+
+x = No issues
+
+Text = short description of the issue
 
 ### Apple
 
