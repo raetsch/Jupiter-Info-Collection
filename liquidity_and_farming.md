@@ -4,9 +4,7 @@
 
 [Providing Liquidity on Pancakeswap](#providing-liquidity)
 
-[Liquidity Farming on valuedefi (bwjup)](#liquidity-farming)
 
-[Single side staking on valuedefi (bwjup)](#single-side-staking-on-bsc)
 
 ## Farming on ETH-Chain
 
@@ -80,105 +78,8 @@ When the transaction is done, you should find your amount of pool tokens you saw
 
 
 
-#### Liquidity Farming (Value.defi maybe still active but not recommended, due to security risk)
 
-Remember, when you provided liquidity, you got that information, how many BNB/JUP-Pool Tokens you got:
-
-![pool_tokens](pics/pool_tokens.png)
 
 Now this Coins can be put into a farm to earn more rewards:
 
-[farm on valuedefi.io](https://bsc.valuedefi.io/#/vfarm/0x810e10df4465b7751d75e961acaf0d06aaae11e1)
-
-![image-20210327224023512](pics/image-20210327224023512.png)
-
-If you have Cake-LP in your wallet, you can simply add them by clicking on stake, enter the amount you want to add (usually max) and then click stake:
-
-![image-20210327224925975](pics/image-20210327224925975.png)
-
-If it is your first time you add Cake-LP you have to approve the transaction:
-
-![image-20210327225608538](pics/image-20210327225608538.png)
-
-after you approved it, you can click on stake and have to confirm the transaction, that sends your Cake-LP into the farm.
-
-After that, you are clear and can claim rewards:
-
-![image-20210327230048828](pics/image-20210327230048828.png)
-
-Every time you want to claim your rewards, it is another transaction from the farm contract to your wallet.
-
-
-
-#### Single side staking on bsc (Value.defi maybe still active but not recommended, due to security risk)
-
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-If you want to stake your Jup, you can do that now on bsc, following this link:
-
-https://bsc.valuedefi.io/#/vfarm/0xfe4a47a3bf9a9912f8b9f3706e3f5328df9e3a39
-
-It is now no longer needed to provide liquidity to get rewarded. If you choose to stake via valuedefi, follow the next steps:
-
-If you open the link you might see the following window, if you do not have a bsc-address connected:
-
-![image-20210316081114304](pics/image-20210316081114304.png)
-
-
-
-The wallet you choose should contain bwJup (and that will be sent to the staking contract)
-
-![image-20210316082247834](pics/image-20210316082247834.png)
-
-
-
-Now click on stake. A window pops up, where you can select how much Jup you want to stake. Click approve then.
-
-
-
-![image-20210316082326163](pics/image-20210316082326163.png)
-
-
-
-Your wallet should now open (for me Metamask). Click on confirm to approve your bwJup. This should not take long, no need to change the fee here.
-
-
-
-![image-20210316082349432](pics/image-20210316082349432.png)
-
-
-
-When your transaction is confirmed, you should see the "stake"-button. Click it.
-
-
-
-![image-20210316082435355](pics/image-20210316082435355.png)
-
-
-
-Again Wallet opens and now you are confirming the transaction into the staking contract. Also there is no need to adapt the tx-fee. After the confirmation it is possible that you still see that window above (the stake-window). Just close it. 
-
-
-
-![image-20210316082457992](pics/image-20210316082457992.png)
-
-
-
-If this is done, you see your pool share (and also APR)
-
-![image-20210316082628705](pics/image-20210316082628705.png)
-
-
-
-If not, just reload the page.
-
-
-
-That's it. You should already receive the first JUP :)
-
-Some words to the shown values:
-
-- APR - shows a rate per year, depending on price of Jup, share of your stake. It get's updated frequently, that is why it is tagged "unstable"
-- MY pool share - Yes, your amount of the pool in relation to every Jup in the farm. This is updated if you (or someone else) adds or removes Jup from the farm
-- Estimated my share - Your amount of Jup multiplied with the current price (not sure how accurate and where the price info comes from)
-- Balance not staked yet - the amount of Jup in your current connected wallet (which is obviously not in the farm)
+Swap it to mainnet on swap.jup.io. More details will follow.
