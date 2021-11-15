@@ -58,11 +58,11 @@ See Videoguides how to install and import existing accounts [here](https://youtu
 
 Since Update 1.2 you can buy FORGE directly in EUROPA:
 
-![image-20211115135149877](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\image-20211115135149877.png)
+![image-20211115135149877](pics/image-20211115135149877.png)
 
 Click on FORGE
 
-![image-20211115135303994](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\image-20211115135303994.png)
+![image-20211115135303994](pics/image-20211115135303994.png)
 
 Enter the amount you want to buy and after clicking on "BUY", EUROPA will do that without any further confirmation. Check the ASSET number to be sure, you are buying the right asset and no scam.
 
