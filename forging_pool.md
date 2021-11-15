@@ -2,7 +2,17 @@
 
 This guide targets the process to be a part of the official sigwo forging pool. It is inspired by [this](https://blog.gojupiter.tech/how-to-earn-on-jupiter-2108413fd0ad) blogpost.
 
+Content:
 
+[Link to official guide from Jupiter Dev-Team](https://docs.jup.io/how-to-guides/staking-on-jupiter)
+
+[What is FORGE](#what-is-forge?)
+
+[Buy FORGE via EUROPA](#buy-forge-via-europa)
+
+[Buy FORGE via Webwallet](#buy-forge-via-webwallet)
+
+[Selling FORGE for JUP](#selling-forge-for-jup)
 
 ## Overview
 
@@ -34,6 +44,26 @@ Go to your Jupiter Wallet (or Webwallet, for example [official webwallet](https:
 
 ![FORGE1](pics/FORGE1.png)
 
+#### Buy FORGE via EUROPA
+
+EUROPA is Jupiters Browser Extension for Chrome and Chrome(ium)-based browsers like Brave.
+
+See Videoguides how to install and import existing accounts [here](https://youtu.be/g8UKcFH2zeM) and [here](https://youtu.be/hyeVsSgDjQQ)
+
+Since Update 1.2 you can buy FORGE directly in EUROPA:
+
+![image-20211115135149877](pics\image-20211115135149877.png)
+
+Click on FORGE
+
+![image-20211115135303994](pics\image-20211115135303994.png)
+
+Enter the amount you want to buy and after clicking on "BUY", EUROPA will do that without any further confirmation. Check the ASSET number to be sure, you are buying the right asset and no scam.
+
+
+
+#### Buy FORGE via Webwallet
+
 You should see now this:
 
 ![image-20210531224104514](pics/FORGE2.png)
@@ -45,7 +75,7 @@ What do we have here?
 
 
 
-### Buy FORGE
+### 
 
 If you want to buy FORGE with your JUP, Click on the green "+". This opens the buy window, enter your amount and click "buy".
 
