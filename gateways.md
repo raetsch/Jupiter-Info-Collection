@@ -27,17 +27,9 @@ as we all (should) know, Jup is available on 3 chains currently:
 - ETHChain as ERC20 JUP (a pitty, should be wJUP)
 - BS-Chain as BEP20 bwJUP (binance wrapped Jupiter - yeah :) )
 
-now, to swap your coins to the different chains, there are gateways in place. The purpose of this info is to show how you can swap, what costs you have and if it is manually or automated.
+now, to swap your coins to the different chains, there is a gateway in place. The purpose of this info is to show, how you can swap, what costs you have and if it is manually or automated.
 
-There are 5 possibilities currently:
 
-- Mainnet to bwJUP
-- bwJUP to Mainnet
-- ERC20 to Mainnet
-- ERC20 JUP to bwJUP
-- bwJUP to ERC20 JUP
-
-The possibility to swap Mainnet to ERC20 is not longer active, because of the high fees on ETH-Chain
 
 _________________________________________________________
 ## Swap Mainnet to bwJUP
