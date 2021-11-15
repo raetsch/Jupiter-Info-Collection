@@ -50,6 +50,26 @@ What do we have here?
 
 ### Buy FORGE
 
+#### Buy FORGE via EUROPA
+
+EUROPA is Jupiters Browser Extension for Chrome and Chrome(ium)-based browsers like Brave.
+
+See Videoguides how to install and import existing accounts [here](https://youtu.be/g8UKcFH2zeM) and [here](https://youtu.be/hyeVsSgDjQQ)
+
+Since Update 1.2 you can buy FORGE directly in EUROPA:
+
+![image-20211115135149877](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\image-20211115135149877.png)
+
+Click on FORGE
+
+![image-20211115135303994](C:\Users\hk\Documents\GitHub\Jupiter-Info-Collection\pics\image-20211115135303994.png)
+
+Enter the amount you want to buy and after clicking on "BUY", EUROPA will do that without any further confirmation. Check the ASSET number to be sure, you are buying the right asset and no scam.
+
+
+
+#### Buy FORGE via webwallet
+
 If you want to buy FORGE with your JUP, Click on the green "+". This opens the buy window, enter your amount and click "buy".
 
 ![FORGE3](pics/FORGE3.png)
