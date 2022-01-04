@@ -1,3 +1,7 @@
+# Update
+
+This info is outdated. The gateway is closed and Kucoin-Exchange is taking over this service. Currently only deposit of mainnet is activated. The guide will be updated, when withdrawals to mainnet are also active!
+
 # Content
 
 [Mainnet to bwJUP](#swap-mainnet-to-bwjup)
