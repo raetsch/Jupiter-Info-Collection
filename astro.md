@@ -26,7 +26,7 @@ Unlike FORGE, ASTRO will be traded on JUP-DEX, so that there is no guarantee, th
 - unknown how long rewards are paid
 - unknown how long the rewards will stay on this level or if they will change in the future
 
-So your APY with ASTRO is depending on several factors, mainly driven by the buy-price on the JUP-DEX. The rewards are paid hourly. All you need to do to is buy ASTRO and hold them. Currently, every hour 3k JUP are rewarded to ASTRO-Holders
+So your APY with ASTRO is depending on several factors, mainly driven by the buy-price on the JUP-DEX. The rewards are paid hourly. All you need to do to is buy ASTRO and hold them. Currently, every hour 3.5k JUP are rewarded to ASTRO-Holders
 
 ____________________________________________
 
