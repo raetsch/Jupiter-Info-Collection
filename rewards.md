@@ -33,7 +33,7 @@ FORGE is an Asset on the Jupiter-Chain. Assets have IDs which make them unique, 
 
 So, were can you find it?
 
-Go to your Jupiter Wallet (or Webwallet, for example [official webwallet](https://nodes.gojupiter.tech/index.html)) and click on asset exchange, then on "add asset". Enter the ID and click the green "add asset".
+Go to your Jupiter Wallet (or Webwallet, for example [official webwallet](https://nodes.jup.io/index.html)) and click on asset exchange, then on "add asset". Enter the ID and click the green "add asset".
 
 ![FORGE1](pics/FORGE1.png)
 
@@ -82,8 +82,9 @@ Another warning for security reasons:
 
 Wallets you can consider safe:
 
-- [official webwallet](https://nodes.gojupiter.tech/index.html)
+- [official webwallet](https://nodes.jup.io/index.html)
 - a webwallet of a node, running in your local home network (except you think, your home network is not safe ;) )
+- Europa Chrome browser extension
 
 
 
